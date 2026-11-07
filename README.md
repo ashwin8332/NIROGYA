@@ -47,7 +47,7 @@ Community symptom reports + water-quality readings → machine-learning disease 
 
 ## About the Project
 
-Water-borne diseases such as **cholera, typhoid, diarrhoea and gastroenteritis** remain a serious public-health burden in rural and tribal communities of **Northeast India** (Assam, Meghalaya and neighbouring states). Outbreaks are usually detected late because symptom data and water-quality data live in different places and reach health officials slowly.
+Water-borne diseases such as **cholera, typhoid, diarrhoea and gastroenteritis** remain a serious public-health burden in rural and tribal communities of **Northeast India**. Outbreaks are usually detected late because symptom data and water-quality data live in different places and reach health officials slowly.
 
 **Nirogya** (Sanskrit/Hindi for *"free from disease"*) brings these signals together on one platform:
 
